@@ -1,4 +1,4 @@
-# Java TestNG Selenium 
+# How to set geolocation for automation test in Java-TestNG on LambdaTest
 
 ### Environment Setup
 
